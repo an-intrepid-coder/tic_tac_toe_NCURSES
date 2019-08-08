@@ -1,4 +1,4 @@
-# tic_tac_toe_NCURSES_v2
+# tic_tac_toe_NCURSES
 Version 2 of tic tac toe w/ NCURSES as posted to Code Review on Stack Exchange. 
 
 As seen here: 
