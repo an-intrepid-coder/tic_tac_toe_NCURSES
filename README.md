@@ -16,8 +16,8 @@ Credits:
 
 NOTE: This was something I did while I was in the process of learning C (or, I should say, EARLIER in the process of learning C).
 It was to practice scripting game logic in pure C, and to practice using the ncurses API. It also gave me something to do
-during a pretty rough time in my life. Over the period of a few weeks I build this, put it on Stack Exchange, got a lot of
+during a pretty rough time in my life. Over the period of a few weeks I built this, put it on Stack Exchange, got a lot of
 feedback which I implemented, got some pull requests I accepted, and this is the result. My original program did not look this 
-good as code before the refactors but it did behave basically the same way. The link the Stack Exchange code review thread 
+good as code before the refactors but it did behave basically the same way. The link to the Stack Exchange code review thread 
 and some individual credits can be found above and I encourage all aspiring coders to take advantage of resources like that.
 They have helped me a lot.
